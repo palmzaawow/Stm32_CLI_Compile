@@ -31,3 +31,7 @@ When the code is edited to be recompiled
 
     'make clean'
      ** 'make -j8' ** use when change code and save it for new compile
+
+flash tool can use program or make python file form this lists
+- STM32CubeProgrammer software    https://www.st.com/en/development-tools/stm32cubeprog.html
+- Use st-link in python 
