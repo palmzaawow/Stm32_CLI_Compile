@@ -1,0 +1,3 @@
+C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/build/CMakeFiles/cepptestprogrammer.dir
+C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/build/CMakeFiles/rebuild_cache.dir
