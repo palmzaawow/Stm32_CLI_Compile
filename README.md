@@ -24,7 +24,7 @@ CLI command
 
     'alias make="mingw32-make"'
     'cmake -G "MinGW Makefiles" -B build_mingw .'
-    'make -j4'
+    'make -j4'  or 'mingw32-make -j4'
 
 
 When the code is edited to be recompiled
